@@ -3,5 +3,7 @@
   <url>
     <loc>https://serres-regis-prof-estournelles.github.io/</loc>
     <lastmod>2024-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
